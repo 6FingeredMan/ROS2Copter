@@ -1,0 +1,12 @@
+float32 z_cmd
+float32 pitch_cmd
+float32 roll_cmd
+float32 yaw_cmd
+float32 target_z_position
+float32 target_z_rate
+float32 target_pitch_position
+float32 target_pitch_rate
+float32 target_roll_position
+float32 target_roll_rate
+float32 target_yaw_position
+float32 target_yaw_rate
